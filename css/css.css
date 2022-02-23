@@ -1,0 +1,36 @@
+/* СТИЛИ index.php */
+body {
+	background: #eff0f3;
+		margin: 0.5%;
+}
+
+/*Header
+	@media (min-width: 390px) {
+*/
+.art-header {
+	justify-content: space-between;
+	display: flex;
+}
+
+.remove-player {
+	text-align: right;
+}
+
+/*Forma*/
+.search-form {
+	text-align: center;
+	margin-top: 5%;
+}
+.search-form input {
+	margin-top: 2%;
+}
+
+.search-form button {
+	margin-top: 2%;
+}
+
+.container-auth {
+	margin: 5%;
+	justify-content: center;
+	display: flex;
+}
